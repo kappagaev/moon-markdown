@@ -1,0 +1,9 @@
+name: moon-markdown
+version: 0.1.0
+
+authors:
+  - kkpagaev <kkpagaev@gmail.com>
+
+crystal: 1.7.3
+
+license: MIT
