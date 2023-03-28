@@ -1,7 +1,3 @@
-require "./parser/*"
-require "./types"
-require "./builder"
-
 class MarkdownParser
   property text : String = ""
 
